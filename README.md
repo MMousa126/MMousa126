@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mousa</h1>
 <h3 align="center">A passionate Software tester from Egypt, eager to learn</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmousa126&label=Profile%20views&color=0e75b6&style=flat" alt="mmousa126" /> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/mousa_126" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/mousa_126?logo=twitter&style=for-the-badge" alt="https://x.com/mousa_126" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmousa126&label=Profile%20views&color=0e75b6&style=flat" alt="MMousa126" /> </p>
 
 - 🔭 I’m currently working on Manual and Automation testing Projects [SwaggLabs](https://github.com/MMousa126/SwaggLabs-AutomationProject.git)
 
