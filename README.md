@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MMousa126?tab=repositories](https://github.com/MMousa126?tab=repositories)
 
+- 📫 How to reach **mohamed.abdelhamid.ebrahim@gmail.com**
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1P9G9KmyR8mR5Jd5GSGHxYd8B4cJ-z3Wn/view?usp=drive_link](https://drive.google.com/file/d/1P9G9KmyR8mR5Jd5GSGHxYd8B4cJ-z3Wn/view?usp=drive_link)
 
 - ⚡ Fun fact **I like to chat about technology**
