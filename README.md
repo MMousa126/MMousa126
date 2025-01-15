@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmousa126&label=Profile%20views&color=0e75b6&style=flat" alt="MMousa126" /> </p>
 
-- 🔭 I’m currently working on Manual and Automation testing Projects [SwaggLabs](https://github.com/MMousa126/SwaggLabs-AutomationProject.git)
+- 🔭 I’m currently working on Automation testing Projects [Updating Base Automation](https://github.com/MMousa126/BaseAutomationProjects)
 
-- 🌱 I’m currently learning Foundations for Python, JavaScript and Continuous Integration with Git, GitHub, and Jenkins **Git, Github and jenkins**
+- 🌱 I’m currently learning Foundations for Python
 
 - 👨‍💻 All of my projects are available at [https://github.com/MMousa126?tab=repositories](https://github.com/MMousa126?tab=repositories)
 
